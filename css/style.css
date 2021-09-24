@@ -436,7 +436,7 @@ footer li {
 
   .s2-box .s2-imgMobile {
     display: block;
-  }
+    }
 
   .s2-img {
     display: none;
@@ -444,6 +444,19 @@ footer li {
 
   .s2-boxContent h3 {
     padding-top: 20px;
+  }
+
+ #guestLecture{
+    background-color: white;
+  }
+
+  .section3 .learning h2{
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .section3{
+    background-color: white;
   }
 
   .s3-row1 {
@@ -514,8 +527,8 @@ footer li {
     margin-bottom: 32px;
   }
 
-  .section3 img
-  .s3-upperContent
+  .section3 img,
+  .s3-upperContent,
   .s3-lowerContent {
     display: none;
   }
