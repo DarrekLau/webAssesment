@@ -186,7 +186,7 @@ nav img {
 
 .section3 {
   background-color: #d6dae0e1;
-  padding: 0px 0px;
+  padding: 0 0;
 }
 
 .section3 button {
@@ -392,8 +392,13 @@ footer li {
   }
 
   .section1-content h3 {
-    margin-top: 24;
-    margin-bottom: 24;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  .section1-content h1 {
+    margin-top: 32px;
+    margin-bottom: 0;
   }
 
   .section1-content a {
