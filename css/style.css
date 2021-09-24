@@ -369,6 +369,7 @@ footer li {
 /* added media query for max-width of 768px */
 
 @media screen and (max-width: 768px) {
+ 
   .logo h3 {
     display: none;
   }
@@ -497,7 +498,8 @@ footer li {
     display: inline-block;
     width: 100%;
     font-weight: bold;
-    background-color: #84878c;
+    font-size:x-large ;
+    background-color: #d6dae0e1;
     height: 70px;
     align-items: center;
   }
@@ -533,6 +535,10 @@ footer li {
     display: none;
   }
 
+  .s4-box1{
+    padding-bottom: 24px;
+  }
+
   .section4Row3 {
     display: none;
   }
@@ -550,7 +556,19 @@ footer li {
   }
 
   .s4-box1 video {
-    display: block;
+    display: relative;
     width: 100%;
+  }
+
+  .rightFoot li{
+    display: none;
+  }
+
+  hr{
+    display: none;
+  }
+
+  footer li{
+    padding-bottom: 16px;
   }
 }
