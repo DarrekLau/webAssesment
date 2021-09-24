@@ -384,7 +384,6 @@ footer li {
 
   header {
     height: 64px;
-    
   }
 
   .section1 {
@@ -515,8 +514,8 @@ footer li {
     margin-bottom: 32px;
   }
 
-  .section3 img,
-  .s3-upperContent,
+  .section3 img
+  .s3-upperContent
   .s3-lowerContent {
     display: none;
   }
